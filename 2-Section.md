@@ -12,3 +12,7 @@
 
 #### Return the quotient and remainder
 4 - White a function that accepts two integers num1 and num2. The function should divide num1 by num2 and return the quotient and remainder. The output can be rounded to 2 decimal places
+
+
+#### Determine the factors of a number
+5 - White a function to determine the factors of a number. Return the output in the form of a list
