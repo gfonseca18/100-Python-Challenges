@@ -16,3 +16,7 @@
 
 #### Determine the factors of a number
 5 - White a function to determine the factors of a number. Return the output in the form of a list
+
+
+#### Find the power of any number x ^ y
+6 - White a function to find power of any number x ^ y
