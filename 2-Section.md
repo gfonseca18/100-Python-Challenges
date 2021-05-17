@@ -20,3 +20,7 @@
 
 #### Find the power of any number x ^ y
 6 - White a function to find power of any number x ^ y
+
+
+#### Return the decimal part of a number
+7 - Write a function that returns the decimal part of a number. The output can be rounded to 2 decimal places. if decimal part is zero, the function should return the string: INTEGER
