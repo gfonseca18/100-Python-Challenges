@@ -28,3 +28,7 @@
 
 #### FzzBuzz Program
 8 - Write a function that takes a number as an argument and returns “Fizz”, “Buzz” or “FizzBuzz”. If the number is a multiple of 3, the function should return ”Fizz”. If the number is a multiple of both 3 and 5 return “FizzBuzz”. If the number is not a multiple of either 3 or 5, return the number itself.
+
+#### Calculate the number of numerical digits in a String
+9 - Write a function that calculates the number of numerical digits in a string
+
