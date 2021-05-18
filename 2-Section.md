@@ -24,3 +24,7 @@
 
 #### Return the decimal part of a number
 7 - Write a function that returns the decimal part of a number. The output can be rounded to 2 decimal places. if decimal part is zero, the function should return the string: INTEGER
+
+
+#### FzzBuzz Program
+8 - Write a function that takes a number as an argument and returns “Fizz”, “Buzz” or “FizzBuzz”. If the number is a multiple of 3, the function should return ”Fizz”. If the number is a multiple of both 3 and 5 return “FizzBuzz”. If the number is not a multiple of either 3 or 5, return the number itself.
