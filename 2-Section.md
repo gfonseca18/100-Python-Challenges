@@ -35,3 +35,8 @@
 - input_string = “cool6544”
 - Expected output = 4
 
+#### Check if a number is equal to the sum of its positive divisors, except itself
+10 - Write a  function that accepts a random number and checks if number is equal to the sum of its positive divisor, except itself
+input = 28
+Expected output = True
+
