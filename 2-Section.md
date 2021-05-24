@@ -32,3 +32,6 @@
 #### Calculate the number of numerical digits in a String
 9 - Write a function that calculates the number of numerical digits in a string
 
+- input_string = “cool6544”
+- Expected output = 4
+
