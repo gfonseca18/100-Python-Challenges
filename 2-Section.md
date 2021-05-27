@@ -36,6 +36,12 @@
 - Expected output = 4
 
 
+#### Check if a number is equal to the sum of its positive divisors, except itself
+10 - Write a  function that accepts a random number and checks if number is equal to the sum of its positive divisor, except itself
+input = 28
+Expected output = True
+
+
 #### Check if the given year, month has the Friday 13th
 11 - Write a function that accepts two arguments year and month, and then checks if month has Friday 13th.
 
