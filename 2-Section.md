@@ -35,3 +35,14 @@
 - input_string = “cool6544”
 - Expected output = 4
 
+
+
+
+
+
+
+
+
+
+#### Calculate the length of a number 
+13 - write a function that chooses a random number “ n ” from 1 and 5000 (inclusive) and then calculates the length of this number “ n ”. Do not use the built-in function “ len ” to calculate the length.
