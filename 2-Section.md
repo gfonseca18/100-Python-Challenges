@@ -31,17 +31,17 @@
 
 #### Calculate the number of numerical digits in a String
 9 - Write a function that calculates the number of numerical digits in a string
-
+*Example*:
 - input_string = “cool6544”
 - Expected output = 4
 
 
+#### Check if the given year, month has the Friday 13th
+11 - Write a function that accepts two arguments year and month, and then checks if month has Friday 13th.
 
-
-
-
-
-
+*Example*:
+- year = 2020, month = 3
+- expected = True
 
 
 #### Calculate the length of a number 
