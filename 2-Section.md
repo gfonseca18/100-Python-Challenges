@@ -48,3 +48,7 @@ Expected output = True
 *Example*:
 - year = 2020, month = 3
 - expected = True
+
+
+#### Return the next number greater than the two numbers A & B and divisible by B
+12 - Give two numbers A and B. create a function that returns the next number greater than A and B and divisible by. (a > b)
