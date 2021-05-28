@@ -52,3 +52,7 @@ Expected output = True
 
 #### Return the next number greater than the two numbers A & B and divisible by B
 12 - Give two numbers A and B. create a function that returns the next number greater than A and B and divisible by. (a > b)
+
+
+#### Check if the given year, month has the Friday 13th
+13 - Write a function that accepts two arguments year and month, and then checks if month has Friday 13th.
