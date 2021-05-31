@@ -56,3 +56,8 @@ Expected output = True
 
 #### Check if the given year, month has the Friday 13th
 13 - Write a function that accepts two arguments year and month, and then checks if month has Friday 13th.
+
+
+#### Boolean values 
+14 - Write a Python function that accepts three boolean variables - x,y and z.
+The function should return True if at least two out of three variables are True.
