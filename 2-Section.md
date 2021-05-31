@@ -61,3 +61,11 @@ Expected output = True
 #### Boolean values 
 14 - Write a Python function that accepts three boolean variables - x,y and z.
 The function should return True if at least two out of three variables are True.
+
+Examples:
+
+x = True, y = False, z = True
+Expected = True
+
+
+
