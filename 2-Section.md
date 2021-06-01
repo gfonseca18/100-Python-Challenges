@@ -61,3 +61,11 @@ Expected output = True
 #### Boolean values 
 14 - Write a Python function that accepts three boolean variables - x,y and z.
 The function should return True if at least two out of three variables are True.
+
+
+#### Factorial of a number
+15 - Write a python function that randomly chooses any number from 1 to 10 and then calculates the factorial of the number
+
+Example:
+num = 5
+factorial = 5 * 4 * 3 * 2 *1 = 120
