@@ -69,3 +69,13 @@ The function should return True if at least two out of three variables are True.
 Example:
 num = 5
 factorial = 5 * 4 * 3 * 2 *1 = 120
+
+
+#### Check if a function returns a whole number without decimals after dividing
+16 - Check if a function returns a whole number without decimals after dividing
+
+Examples:
+
+check_division (4 / 2) => True
+check_division (25 / 4) => False
+
