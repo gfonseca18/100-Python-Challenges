@@ -72,12 +72,13 @@ factorial = 5 * 4 * 3 * 2 *1 = 120
 
 
 #### Check if a function returns a whole number without decimals after dividing
-16 - Check if a function returns a whole number without decimals after dividing
+16 - Write a function that takes a division equation d and checks if it returns a whole number without decimals after dividing.
 
 Examples:
 
 check_division (4 / 2) => True
 check_division (25 / 4) => False
+
 
 #### Prime number
 17 - Write a function that accepts a number and returns True if the number is a prime number else returns False. A prime number is an integer which cannot be divided evenly by any integer except 1 and itself. you may assume that n is a non-negative integer.
