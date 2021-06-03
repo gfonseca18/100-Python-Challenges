@@ -79,3 +79,5 @@ Examples:
 check_division (4 / 2) => True
 check_division (25 / 4) => False
 
+#### Prime number
+17 - Write a function that accepts a number and returns True if the number is a prime number else returns False. A prime number is an integer which cannot be divided evenly by any integer except 1 and itself. you may assume that n is a non-negative integer.
