@@ -62,10 +62,28 @@ Expected output = True
 14 - Write a Python function that accepts three boolean variables - x,y and z.
 The function should return True if at least two out of three variables are True.
 
+
 Examples:
 
 x = True, y = False, z = True
 Expected = True
 
 
+#### Factorial of a number
+15 - Write a python function that randomly chooses any number from 1 to 10 and then calculates the factorial of the number
 
+Example:
+num = 5
+factorial = 5 * 4 * 3 * 2 *1 = 120
+
+
+#### Check if a function returns a whole number without decimals after dividing
+16 - Check if a function returns a whole number without decimals after dividing
+
+Examples:
+
+check_division (4 / 2) => True
+check_division (25 / 4) => False
+
+#### Prime number
+17 - Write a function that accepts a number and returns True if the number is a prime number else returns False. A prime number is an integer which cannot be divided evenly by any integer except 1 and itself. you may assume that n is a non-negative integer.
