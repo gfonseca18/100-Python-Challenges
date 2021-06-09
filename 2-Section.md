@@ -81,3 +81,15 @@ check_division (25 / 4) => False
 
 #### Prime number
 17 - Write a function that accepts a number and returns True if the number is a prime number else returns False. A prime number is an integer which cannot be divided evenly by any integer except 1 and itself. you may assume that n is a non-negative integer.
+
+
+
+
+
+
+
+
+
+
+#### Return the numbers divisible by 15 in a list
+19 - Write a function that generates a list named “input_list” containing 10 random numbers ranging from 0-100, and then the function should return a list of numbers divisible by fifteen from the “input_list”
