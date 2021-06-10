@@ -63,6 +63,12 @@ Expected output = True
 The function should return True if at least two out of three variables are True.
 
 
+Examples:
+
+x = True, y = False, z = True
+Expected = True
+
+
 #### Factorial of a number
 15 - Write a python function that randomly chooses any number from 1 to 10 and then calculates the factorial of the number
 
