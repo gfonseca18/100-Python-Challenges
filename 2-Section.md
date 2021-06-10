@@ -11,7 +11,8 @@
 
 
 #### Return the quotient and remainder
-4 - White a function that accepts two integers num1 and num2. The function should divide num1 by num2 and return the quotient and remainder. The output can be rounded to 2 decimal places
+4 - White a function that accepts two integers num1 and num2. The function should divide num1 by num2 and return the quotient and remainder.
+The output can be rounded to 2 decimal places
 
 
 #### Determine the factors of a number
@@ -23,7 +24,8 @@
 
 
 #### Return the decimal part of a number
-7 - Write a function that returns the decimal part of a number. The output can be rounded to 2 decimal places. if decimal part is zero, the function should return the string: INTEGER
+7 - Write a function that returns the decimal part of a number. The output can be rounded to 2 decimal places.
+If decimal part is zero, the function should return the string: INTEGER
 
 
 #### FzzBuzz Program
@@ -86,7 +88,8 @@ check_division (4 / 2) => True
 check_division (25 / 4) => False
 
 #### Prime number
-17 - Write a function that accepts a number and returns True if the number is a prime number else returns False. A prime number is an integer which cannot be divided evenly by any integer except 1 and itself. you may assume that n is a non-negative integer.
+17 - Write a function that accepts a number and returns True if the number is a prime number else returns False. A prime number is an integer which cannot be divided evenly by any integer except 1 and itself. 
+you may assume that n is a non-negative integer.
 
 
 #### Sum of digits in a integer
@@ -95,4 +98,10 @@ check_division (25 / 4) => False
 *Example:*
 n = 156
 total = 12
+
+
+#### Return the numbers divisible by 15 in a list
+19 - Write a function that generates a list named “input_list” containing 10 random numbers ranging from 0-100,
+and then the function should return a list of numbers divisible by fifteen from the “input_list”
+
 
