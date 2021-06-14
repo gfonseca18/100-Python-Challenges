@@ -106,10 +106,12 @@ and then the function should return a list of numbers divisible by fifteen from 
 
 
 #### Swap bits in an integer
-Write a function that accepts an integer and converts the integer into its binary from. The function should then swap the two bits at positions 3 and 7 (from left) in the binary number and return the result integer.
+20 - Write a function that accepts an integer and converts the integer into its binary from. The function should then swap the two bits at positions 3 and 7 (from left) in the binary number and return the result integer.
 
 Example:
 input = 40 (binary representation - “00101000”)
 expected output = 10 (binary representation - “00001010”)
 
 
+#### Fibonacci series
+21 - Write a function that randomly chooses any number “n” from 5 to 10 and then generates a Fibonacci sequence until “n”. the sequence should be returned in the form of a list.
