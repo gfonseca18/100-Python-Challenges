@@ -114,3 +114,10 @@ input = 40 (binary representation - “00101000”)
 expected output = 10 (binary representation - “00001010”)
 
 
+#### Fibonacci series
+21 - Write a function that randomly chooses any number “n” from 5 to 10 and then generates a Fibonacci sequence until “n”. the sequence should be returned in the form of a list.
+
+
+example:
+for n = 5
+output_sequence = [0, 1, 1, 2, 3]
